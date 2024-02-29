@@ -1,0 +1,11 @@
+# of particles
+108
+rho
+0.85
+T
+0.626
+dt
+0.01
+numstep
+10000
+
